@@ -1,14 +1,14 @@
 #' Package:  AdobeDW \cr
 #' Type:     Package \cr
 #' Version:  0.1 \cr
-#' Date:     2014-12-27 \cr
+#' Date:     2015-05-04 \cr
 #' License:  MIT + file LICENSE \cr
 #'
 #'
 #' 
 #' @name AdobeDW
 #' @docType package
-#' @title R Client for the Adobe Analytics Data Warehouse API
+#' @title R Client for the Adobe Analytics Data Warehouse API v1.3
 #' @author Randy Zwitch
 #' @description 
 #' 
