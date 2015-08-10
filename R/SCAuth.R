@@ -22,6 +22,6 @@
 #' @export
 
 SCAuth <- function(key, secret, debug.mode = FALSE){
-  RSiteCatalyst::SCAuth(key, secret, company='', token.file="", auth.method="legacy", debug.mode, use.1.3 = TRUE)
+  RSiteCatalyst::SCAuth(key, secret, company='', token.file="", auth.method="legacy", debug.mode)
   
 }

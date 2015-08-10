@@ -1,8 +1,8 @@
 Package: AdobeDW
 Type: Package
-Title: R Client for the Adobe Analytics Data Warehouse API v1.3
+Title: R Client for the Adobe Analytics Data Warehouse API V1.4
 Version: 0.1
-Date: 2015-05-04
+Date: 2015-08-10
 Author: Randy Zwitch
 Maintainer: Randy Zwitch <rzwitch+rsitecatalyst@gmail.com>
 Depends:
